@@ -1,0 +1,70 @@
+CSS
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+header button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.nft-item {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.nft-item img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.nft-details {
+    flex: 1;
+}
+
+.nft-details h4 {
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
+.nft-details p {
+    margin-bottom: 10px;
+}
+
+.nft-stats {
+    display: flex;
+    justify-content: space-between;
+}
