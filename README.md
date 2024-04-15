@@ -3,9 +3,11 @@
 Are you tired of missing out on real estate investments due to high costs and limited access? Look no further! NFTBrick is revolutionizing the real estate market by offering a groundbreaking solution - fractionalized NFTs. Now, anyone can own a piece of real estate, regardless of their budget or location.
 
 #Try out demo
-https://anmol2410.github.io/NFT-Bricks/
+https://jansh7784.github.io/NFT-Bricks/
 
 #Pitch Deck
+
+https://www.canva.com/design/DAGCdk8Zspc/QmCOZeXqsQeWvkNN_W_EOg/edit?utm_content=DAGCdk8Zspc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #Problem:
 
